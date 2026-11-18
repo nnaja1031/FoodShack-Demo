@@ -13,6 +13,8 @@ This demo is the whole game so far, all six stages:
 
 Play as Frizzy or Suzie. Charlie and Bobby join the crew in the stage after you rescue them.
 
+Every stage also hides a secret. Find it, and after that stage you get a bonus stage: 30 seconds to smash a parked alien saucer for points.
+
 ## [⬇ Download for Windows (zip, 67 MB)](https://github.com/nnaja1031/FoodShack-Demo/raw/main/FrizzyAndTheFoodCrew-Demo-Windows.zip)
 
 1. Unzip the download.
@@ -22,6 +24,10 @@ Play as Frizzy or Suzie. Charlie and Bobby join the crew in the stage after you 
 Needs Windows 10 or 11 (64-bit). A gamepad is optional.
 
 ## What's new since the last demo
+
+- **Secret bonus stages.** Every stage hides one secret, and nothing on screen tells you what it is. Do it and you'll hear a quiet twinkle. Then, once you've cleared that stage, it's the bonus stage: a saucer parked on Fry Street and 30 seconds to smash it. Every hit scores, and wrecking it before time's up pays a big bonus, more the faster you do it.
+
+### In the update before that
 
 - Stages 3 to 6, and the ending.
 - Suzie, Charlie and Bobby, each with their own weapon and moves.
