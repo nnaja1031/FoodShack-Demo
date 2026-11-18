@@ -25,10 +25,11 @@ Needs Windows 10 or 11 (64-bit). A gamepad is optional.
 
 ## What's new since the last demo
 
+- **New weapon names.** Suzie now fights with the **Strawberry Sparkler**, Charlie with the **Chili Bazooka** and Bobby with the **Spatula Smasher**. Frizzy keeps his **Fry Sword**.
+
+### Earlier updates
+
 - **Secret bonus stages.** Every stage hides one secret, and nothing on screen tells you what it is. Do it and you'll hear a quiet twinkle. Then, once you've cleared that stage, it's the bonus stage: a saucer parked on Fry Street and 30 seconds to smash it. Every hit scores, and wrecking it before time's up pays a big bonus, more the faster you do it.
-
-### In the update before that
-
 - Stages 3 to 6, and the ending.
 - Suzie, Charlie and Bobby, each with their own weapon and moves.
 - Two-player co-op on one keyboard or two gamepads.
